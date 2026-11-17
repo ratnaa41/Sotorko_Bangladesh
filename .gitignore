@@ -1,0 +1,7 @@
+
+# Dependencies and build files
+node_modules/
+dist/
+venv/
+__pycache__/
+*.pyc
